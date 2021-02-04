@@ -27,5 +27,6 @@
         {"id":2,"name":"IPhone", "brandName":"Apple", "ram":4.5, "rating":3, "price":50000},
         {"id":3,"name":"Realme 7i", "brandName":"RealMe", "ram":4.5, "rating":3,"price":12000}
     ],
+    "brands":["Samsung", "Apple", "RealMe"],
     "orders": []
   }

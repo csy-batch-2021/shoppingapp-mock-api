@@ -23,9 +23,10 @@
       }
     ],
     "products": [
-        {"id":1,"name":"Samsung Galaxy F41", "brandName":"Samsung", "ram":3, "rating":3, "price":10000},
-        {"id":2,"name":"IPhone", "brandName":"Apple", "ram":4.5, "rating":3, "price":50000},
-        {"id":3,"name":"Realme 7i", "brandName":"RealMe", "ram":4.5, "rating":3,"price":12000}
+        {"id":1,"name":"Samsung Galaxy F41", "brandName":"Samsung", "ram":3, "rating":3, "price":10000, active:1},
+        {"id":2,"name":"IPhone", "brandName":"Apple", "ram":4.5, "rating":3, "price":50000, active:1},
+        {"id":3,"name":"Realme 7i", "brandName":"RealMe", "ram":4.5, "rating":3,"price":12000, active:1},
+        {"id":4,"name":"Nokia 1100", "brandName":"Nokia", "ram":4.5, "rating":3,"price":3000, active:0}
     ],
     "brands":["Samsung", "Apple", "RealMe"],
     "orders": []
